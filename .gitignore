@@ -1,0 +1,43 @@
+# Environment variables and API keys
+
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+
+.venv/
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Testing and coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build files
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
