@@ -48,3 +48,6 @@ langsmith
 pytest
 ruff
 black
+rich
+
+tavily-python
